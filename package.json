@@ -1,5 +1,5 @@
 {
-  "name": "canvas",
+  "name": "@floorplanner/canvas",
   "description": "Canvas graphics API backed by Cairo",
   "version": "1.5.1",
   "author": "TJ Holowaychuk <tj@learnboost.com>",
